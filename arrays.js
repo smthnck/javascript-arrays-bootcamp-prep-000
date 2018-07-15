@@ -33,3 +33,9 @@ function removeElementFromBeginningOfArray (a) {
   var n = a.slice(1)
   return n
 }
+
+function (){
+  
+}
+
+
